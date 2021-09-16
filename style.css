@@ -111,6 +111,7 @@ button {
   border-radius: 10px;
   font-weight: 900;
   font-size: 0.9rem;
+  border: none;
 }
 .payment {
   background-color: var(--Bright-blue);
